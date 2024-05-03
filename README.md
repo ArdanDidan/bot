@@ -1,0 +1,2 @@
+# bot
+untuk bot DC
